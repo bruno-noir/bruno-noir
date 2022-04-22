@@ -1,5 +1,9 @@
 ### Hi 👋 My name is Pratyush
-=======================================* 🌍  I'm based in Kharagpur, West Bengal, India* ✉️  You can contact me at [pratyushkumar0308@kgpian.iitkgp.ac.in](mailto:pratyushkumar0308@kgpian.iitkgp.ac.in)* 🧠  I'm learning Data Science* ⚡  Not a Weeb
+=======================================
+* 🌍  I'm based in Kharagpur, West Bengal, India
+* ✉️  You can contact me at [pratyushkumar0308@kgpian.iitkgp.ac.in](mailto:pratyushkumar0308@kgpian.iitkgp.ac.in)
+* 🧠  Danish computer scienI'm learning Data Science
+* ⚡  Not a Weeb
 
 ### Skills
 
