@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+</head>
+<p align="center"> <img src="./bg.webp" alt="wall"/></p>
+
 ### Hi 👋 My name is Pratyush
 =======================================
 * 🌍  I'm based in Kharagpur, West Bengal, India
