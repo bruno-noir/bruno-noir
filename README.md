@@ -12,11 +12,26 @@
 
 ### Skills
 
-- **Programming Languages**: C | C++ | Python | HTML | CSS | JavaScript | TypeScript | MySQL | PostgreSQL
-- **Cloud Platform**: Google Cloud Platform (GCP) | Azure
-- **Tools**: Autocad | MatLab | Arduino IDE | Google Colab | VSCode | Jupyter Notebook | Git | Github | Backlog | Adobe Illustrator | Adobe Photoshop | Figma
-- **Libraries & Frameworks**: C++ STL | React | Angular | Node.js | Next.js | Express.js | Flask | Bootstrap | Swagger | Firebase | TypeScript | NumPy | Pandas | Matplotlib | Ggplot2 | Scikit-learn | Seaborn | OpenCV | TensorFlow | PyTorch | Keras | TorchIO
-- **Operating Systems**: Microsoft Windows | Linux (Ubuntu) | MacOS (Unix)
+- **Programming Languages**: 
+  - C | C++ | Python | HTML | CSS | JavaScript | TypeScript | MySQL | PostgreSQL | Java | Kotlin
+
+- **Cloud Platform**: 
+  - Google Cloud Platform (GCP) | Azure | AWS 
+
+- **Tools**: 
+  - Autocad | MatLab | Arduino IDE | Google Colab | VSCode | Jupyter Notebook | Git | Github | Backlog | Adobe Illustrator | Adobe Photoshop | Figma
+
+- **Libraries & Frameworks**: 
+  - C++ STL | Next.js | Express.js | Flask | Bootstrap | Swagger | Firebase | TypeScript | NumPy | Pandas | Matplotlib | Ggplot2 | Scikit-learn | Seaborn | OpenCV | TensorFlow | PyTorch | Keras | TorchIO | ReactJS | AngularJS | Node.js | React Native | Spring Boot | Kotlin Ktor | Kubernetes | Apache Kafka/Spark | D3.js/Chart.js
+
+- **Operating Systems**: 
+  - Microsoft Windows | Linux (Ubuntu) | MacOS (Unix)
+
+- **Databases**: 
+  - MySQL  | MongoDB 
+  
+- **Continuous Integration/Continuous Deployment (CI/CD)**: 
+  - Experienced
 
 ### Socials
 
