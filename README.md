@@ -7,7 +7,7 @@
 =======================================
 * 🌍  I'm based in Kharagpur, West Bengal, India
 * ✉️  You can contact me at [pratyushkumar0308@kgpian.iitkgp.ac.in](mailto:pratyushkumar0308@kgpian.iitkgp.ac.in)
-* 🧠  I'm learning Data Science
+* 🧠  I'm learning ?
 * ⚡  Not a Weeb
 
 ### Skills
