@@ -5,39 +5,41 @@
 
 ### Hi 👋 My name is Pratyush
 =======================================
-* 🌍  I'm based in Kharagpur, West Bengal, India
-* ✉️  You can contact me at [pratyushkumar0308@kgpian.iitkgp.ac.in](mailto:pratyushkumar0308@kgpian.iitkgp.ac.in)
-* 🧠  I'm learning ?
-* ⚡  Not a Weeb
+Turning chaos into bulletproof code. I build software that scales, systems that heal themselves, and queries that don't bottleneck.
+
+* 🌍  I'm based in Pune, Maharashtra, India
+* 💼  Currently working as a Full Stack Developer at **Melyn Inc.**
+* 🎓  Integrated Dual Degree (B.Tech + M.Tech) in Chemical Engineering, IIT Kharagpur
+* ✉️  You can contact me at [pratyushkumar0308@gmail.com](mailto:pratyushkumar0308@gmail.com)
+* 🧠  I'm currently exploring Advanced RAG Architectures, Vector Databases, and System Scalability
+* ⚡  Not a Weeb (just a competitive programming addict)
 
 ### Skills
 
 - **Programming Languages**: 
-  - C | C++ | Python | HTML | CSS | JavaScript | TypeScript | MySQL | PostgreSQL | Java | Kotlin
+  - C | C++ | Python | JavaScript | TypeScript | Go | SQL | HTML | CSS | Java | Kotlin
 
-- **Cloud Platform**: 
-  - Google Cloud Platform (GCP) | Azure | AWS 
+- **Frameworks & Libraries**: 
+  - React | Next.js | Node.js (Express) | Angular | React Native | Django | Flask | FastAPI | Tailwind CSS | C++ STL | NumPy | Pandas
 
-- **Tools**: 
-  - Autocad | MatLab | Arduino IDE | Google Colab | VSCode | Jupyter Notebook | Git | Github | Backlog | Adobe Illustrator | Adobe Photoshop | Figma
+- **AI, ML & Data**: 
+  - AWS Bedrock | AWS Textract | pgvector (Vector DB) | RAG Architecture | Mistral7B | TensorFlow | PyTorch | OpenCV | NLP
 
-- **Libraries & Frameworks**: 
-  - C++ STL | Next.js | Express.js | Flask | Bootstrap | Swagger | Firebase | TypeScript | NumPy | Pandas | Matplotlib | Ggplot2 | Scikit-learn | Seaborn | OpenCV | TensorFlow | PyTorch | Keras | TorchIO | ReactJS | AngularJS | Node.js | React Native | Spring Boot | Kotlin Ktor | Kubernetes | Apache Kafka/Spark | D3.js/Chart.js
-
-- **Operating Systems**: 
-  - Microsoft Windows | Linux (Ubuntu) | MacOS (Unix)
+- **Cloud, DevOps & CI/CD**: 
+  - AWS | GCP | Azure | Docker | Kubernetes | Prometheus | Alertmanager | Ansible | Elasticsearch | Git
 
 - **Databases**: 
-  - MySQL  | MongoDB 
+  - MySQL | PostgreSQL | MongoDB | Firebase
   
-- **Continuous Integration/Continuous Deployment (CI/CD)**: 
-  - Experienced
+- **Tools & Design**: 
+  - VSCode | Jupyter Notebook | Postman | Figma | Adobe Illustrator | MatLab
 
 ### Socials
 
 <p align="left">
   <a href="https://discord.com/users/Pratyush/noir#8957" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/bruno-noir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/pratyush-kumar-chouhan-1b6663243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/_pratyush._.kumar/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
