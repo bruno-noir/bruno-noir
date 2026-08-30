@@ -1,0 +1,95 @@
+# Save this as: .github/workflows/metrics.yml
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Replaces the GitHub stats card
+      - name: Overview stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bruno-noir
+          filename: metrics/overview.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+      # Replaces the top languages card
+      - name: Top languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bruno-noir
+          filename: metrics/languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+
+      # Replaces the activity graph
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bruno-noir
+          filename: metrics/calendar.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # Replaces the trophy hall
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bruno-noir
+          filename: metrics/achievements.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot,
+            stargazer,
+            sponsor,
+            deployer,
+            member,
+            maintainer,
+            developer,
+            scripter,
+            packager,
+            explorer,
+            infographile
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+
+      # Coding habits and most active hours
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bruno-noir
+          filename: metrics/habits.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
