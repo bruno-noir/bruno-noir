@@ -67,6 +67,7 @@
 
 ---
 
+
 ## ⚔️ Boss Battles Cleared
 
 <table>
@@ -195,14 +196,6 @@
 <a href="https://codeforces.com/profile/pratyushkumar0308"><img src="https://img.shields.io/badge/Codeforces-pratyushkumar0308-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
 <a href="https://www.codechef.com/users/pratyush_ch"><img src="https://img.shields.io/badge/CodeChef-1706_rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/></a>
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bruno-noir/bruno-noir/main/metrics/calendar.svg" alt="contribution calendar" width="100%"/>
 </div>
 
 ---
