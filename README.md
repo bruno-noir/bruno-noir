@@ -166,7 +166,7 @@
 ## 🏆 Trophy Hall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bruno-noir&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%"/>
+  <img src="https://raw.githubusercontent.com/bruno-noir/bruno-noir/main/metrics/achievements.svg" alt="achievements" width="100%"/>
 </div>
 
 ---
@@ -175,13 +175,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-noir&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&rank_icon=github" alt="github stats"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=bruno-noir&hide_border=true&background=1c1917&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=ffffff&sideLabels=ffffff&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img src="https://raw.githubusercontent.com/bruno-noir/bruno-noir/main/metrics/overview.svg" alt="overview" width="100%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-noir&langs_count=10&layout=compact&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="top languages"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bruno-noir&theme=github_dark" alt="most commit language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bruno-noir&theme=github_dark&utcOffset=5.5" alt="productive time"/>
+<img src="https://raw.githubusercontent.com/bruno-noir/bruno-noir/main/metrics/languages.svg" alt="top languages" width="49%"/>
+<img src="https://raw.githubusercontent.com/bruno-noir/bruno-noir/main/metrics/habits.svg" alt="coding habits" width="49%"/>
 
 </div>
 
@@ -205,7 +202,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruno-noir&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=a855f7&area=true&hide_border=true&custom_title=Commit%20Streak%20Timeline" alt="activity graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/bruno-noir/bruno-noir/main/metrics/calendar.svg" alt="contribution calendar" width="100%"/>
 </div>
 
 ---
@@ -224,14 +221,11 @@
 
 ## 📌 Pinned Repos
 
+Pin these from your profile page directly (click Customize your pins on github.com/bruno-noir). GitHub renders those natively, so they never break.
+
 <div align="center">
 
-<a href="https://github.com/bruno-noir/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bruno-noir&repo=REPO_ONE&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="repo one"/>
-</a>
-<a href="https://github.com/bruno-noir/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bruno-noir&repo=REPO_TWO&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="repo two"/>
-</a>
+<a href="https://github.com/bruno-noir?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos"/></a>
 
 </div>
 
